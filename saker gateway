@@ -61,4 +61,4 @@ https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 •	connect ethernet cable
 •	'make TARGET=saker connect router' press the reset button.
 •	copy IPv4/IPv6 address and paste it in browser.
-Congratulations!!! Now you have successfully connected to saker gateway
+Congratulations!!! Now you have successfully connected to saker gateway.
